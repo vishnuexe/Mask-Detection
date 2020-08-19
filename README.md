@@ -1,4 +1,4 @@
-# GodsEye Mask Detection AI
+#  Mask Detection AI
 
 ## Instructions to Run
 Install dependencies  
