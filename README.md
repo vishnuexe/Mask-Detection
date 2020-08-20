@@ -1,5 +1,7 @@
 #  Mask Detection AI
 
+Real time AI Mask detection optimized to run on CPU
+
 ## Instructions to Run
 Install dependencies  
 ```	pip install -r requirements.txt ```  
